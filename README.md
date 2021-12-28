@@ -11,5 +11,5 @@ Como estudante de data science, estou desenvolvendo os meus conhecimentos em Pyt
 
 **Background in:** Indexação, classificação, taxonomia e criação de relatórios analíticos.
 
-**Links:**
+**Link:**
 * [LinkedIn](https://www.linkedin.com/in/agathaspiegel/)
