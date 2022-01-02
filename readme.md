@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Logo_Agatha Spiegel.png" >
+  <img src="Logo_Agatha_Spiegel.png" >
 </p>
                       
 # Agatha Spiegel
